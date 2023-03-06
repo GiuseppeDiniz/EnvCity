@@ -9,6 +9,6 @@ Este projeto tem como objetivo desenvolver uma plataforma que permita a disponib
 
 ## Telas:
 <p align="center">
-  <img src="./assets/path/to/img%20(5).jpeg " width="350" title="hover text">
+  <img src="./assets/path/to/img%20(4).jpeg " width="350" title="hover text">
   <img src="./assets/path/to/img%20(1).jpeg " width="350" title="hover text">
 </p>
