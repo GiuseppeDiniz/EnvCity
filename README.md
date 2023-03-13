@@ -21,10 +21,7 @@ Este projeto tem como objetivo desenvolver uma plataforma que permita a disponib
   <img src="./assets/path/to/img%20(1).jpeg " width="350" title="hover text">
 </p>
 
-## Instalar:
+### Instalar:
 ```
-  Eles não podem ser adicionados diretamente, mas você pode adicionar uma imagem com um link para o vídeo como este:
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-  " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-  alt="Texto ALT da imagem aqui" width="240" height="180" border="10" /></a>
+git clone https://github.com/GiuseppeDiniz/EnvCity.git
   ```
