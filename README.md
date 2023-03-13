@@ -3,7 +3,7 @@
     <img alignSelf= "center" alt="license" src="https://img.shields.io/github/license/GiuseppeDiniz/EnvCity.svg"/>
     <img alignSelf= "center" alt="downloads" src="https://img.shields.io/github/downloads/GiuseppeDiniz/EnvCity/total.svg"/>
     <img alignSelf= "center" alt="releases" src="https://img.shields.io/github/realese/GiuseppeDiniz/EnvCity.svg"/>
-    <img alignSelf= "center" alt="reactnative" src="https://badge-size.herokuapp.com/GiuseppeDiniz/EnvCity/main/EnvCity"/>
+    <img alignSelf= "center" alt="size" src="https://badge-size.herokuapp.com/GiuseppeDiniz/EnvCity/main/EnvCity"/>
 </div>
 
 ## Sumário
