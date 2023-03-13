@@ -4,7 +4,7 @@
 - [Descrição do Projeto](#descricao-do-projeto)
 - [Telas](#telas)
 
-# Descrição do Projeto {#descricao-do-projeto}
+## Descrição do Projeto {#descricao-do-projeto}
 
 Este projeto tem como objetivo desenvolver uma plataforma que permita a disponibilização de dados das redes de qualidade do ar e água para a comunidade em geral, seguindo o conceito de Dados Abertos. O projeto será dividido em duas partes:
 
