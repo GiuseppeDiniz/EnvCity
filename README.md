@@ -1,4 +1,10 @@
-# Descrição do Projeto
+## Sumário
+
+- [Introdução](#introdução)
+- [Descrição do Projeto](#descricao-do-projeto)
+- [Telas](#telas)
+
+# Descrição do Projeto {#descricao-do-projeto}
 
 Este projeto tem como objetivo desenvolver uma plataforma que permita a disponibilização de dados das redes de qualidade do ar e água para a comunidade em geral, seguindo o conceito de Dados Abertos. O projeto será dividido em duas partes:
 
@@ -7,7 +13,7 @@ Este projeto tem como objetivo desenvolver uma plataforma que permita a disponib
 - Especificação, projeto e programação de um aplicativo para dispositivos móveis que possibilite que os usuários finais acessem os dados, por meio de relatórios e mapas.
 
 
-## Telas:
+## Telas: {#telas}
 <p align="center">
   <img src="./assets/path/to/img%20(4).jpeg " width="350" title="hover text">
   <img src="./assets/path/to/img%20(1).jpeg " width="350" title="hover text">
