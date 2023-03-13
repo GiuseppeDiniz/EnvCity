@@ -1,4 +1,3 @@
-## 
 <div style="display: inline_block"><br/>
     <img alignSelf= "center" alt="license" src="https://img.shields.io/github/license/GiuseppeDiniz/EnvCity.svg"/>
     <img alignSelf= "center" alt="downloads" src="https://img.shields.io/github/downloads/GiuseppeDiniz/EnvCity/total.svg"/>
