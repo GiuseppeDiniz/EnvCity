@@ -6,6 +6,10 @@
     //<img alignSelf= "center" alt="size" src="https://badge-size.herokuapp.com/GiuseppeDiniz/EnvCity/main/README.md"/>
 </div>
 
+```
+git clone https://github.com/GiuseppeDiniz/EnvCity.git
+  ```
+
 ## Sumário
 
 - [Descrição do Projeto](#descricao-do-projeto)
@@ -28,8 +32,3 @@ Este projeto tem como objetivo desenvolver uma plataforma que permita a disponib
   <img src="./assets/path/to/img%20(4).jpeg " width="350" title="hover text">
   <img src="./assets/path/to/img%20(1).jpeg " width="350" title="hover text">
 </p>
-
-### Clone:
-```
-git clone https://github.com/GiuseppeDiniz/EnvCity.git
-  ```
