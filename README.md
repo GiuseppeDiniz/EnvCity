@@ -21,7 +21,7 @@ Este projeto tem como objetivo desenvolver uma plataforma que permita a disponib
   <img src="./assets/path/to/img%20(1).jpeg " width="350" title="hover text">
 </p>
 
-### Instalar:
+### Clone:
 ```
 git clone https://github.com/GiuseppeDiniz/EnvCity.git
   ```
